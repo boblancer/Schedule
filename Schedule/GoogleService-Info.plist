@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>184800291603-ii8n3ggse3i7ulp0eg2aj8uquanv323e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.184800291603-ii8n3ggse3i7ulp0eg2aj8uquanv323e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuWlD4Pi_4NUt5E-69JvhP20zo2e8tTRM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>184800291603</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.boblancer.Schedule</string>
+	<key>PROJECT_ID</key>
+	<string>boblancer-ios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boblancer-ios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:184800291603:ios:1629c2a7984e958c</string>
+	<key>DATABASE_URL</key>
+	<string>https://boblancer-ios.firebaseio.com</string>
+</dict>
+</plist>

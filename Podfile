@@ -7,5 +7,9 @@ target 'Schedule' do
 
   # Pods for Schedule
   pod 'Alamofire', '~> 5.0.0-beta.2'
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'FirebaseUI/Auth'
+  pod 'GoogleSignIn'
 
 end
